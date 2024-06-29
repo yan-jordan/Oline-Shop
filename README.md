@@ -1,8 +1,10 @@
+# Oline-Shop
+This is a java code of an online shop which sells fruits.
+
 ![Screenshot 1403-04-04 at 4 13 29 in the afternoon](https://github.com/yan-jordan/Oline-Shop/assets/151916970/ad1a9dd1-1ed8-4178-a058-dde346268a25)
+![Screenshot 1403-04-04 at 4 05 04 in the afternoon](https://github.com/yan-jordan/Oline-Shop/assets/151916970/3dc54ab8-1747-467d-a806-de58128e385d)
 
 ![Screenshot 1403-04-08 at 1 27 20 in the afternoon](https://github.com/yan-jordan/Oline-Shop/assets/151916970/de03a626-3b17-46fb-8368-558d2d05548a)
-
-![Uploading Screenshot 1403-04-07 at 12.26.56 in the afternoon.jpg…]()github.com/yan-jordan/Oline-Shop/assets/151916970/57c31f95-9c23-4eb7-913d-d13d039f26d3)
 
 ![Screenshot 1403-04-07 at 12 26 56 in the afternoon](https://github.com/yan-jordan/Oline-Shop/assets/151916970/4ab3a4cb-3f29-4172-8f80-a0656d7fb550)
 
@@ -11,9 +13,6 @@
 ![Image 4-6-1403 AP at 9 02 at night](https://github.com/yan-jordan/Oline-Shop/assets/151916970/a93064ed-53e6-4935-95af-69dfb0e7ff45)
 
 ![Screenshot 1403-04-08 at 1 27 48 in the afternoon](https://github.com/yan-jordan/Oline-Shop/assets/151916970/17adaf90-eb9c-4e06-b6c2-86679b923d85)
-
-# Oline-Shop
-This is a java code of an online shop which sells fruits.
 
 # Store Management Project
 
